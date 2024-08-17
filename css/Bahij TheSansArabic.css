@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Bahij TheSansArabic';
+	src: url(../fonts/BahijTheSansArabic-Bold.woff2) format('woff2'),
+	url(../fonts/BahijTheSansArabic-Bold.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: auto;
+}

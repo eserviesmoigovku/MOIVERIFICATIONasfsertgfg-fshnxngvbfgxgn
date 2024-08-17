@@ -1,0 +1,192 @@
+@media (max-width: 8320px) {
+  #personFaceImage {
+    width: 15%;
+  }
+}
+
+@media (max-width: 8320px) {
+  .title {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #instagram {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #twitter {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #youtube {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #facebook {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #footer {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #button {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #status {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #mainPara {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #logoMOI {
+    width: 75px;
+  }
+}
+
+@media (max-width: 8320px) {
+  #logoStatus {
+    width: 50px;
+  }
+}
+
+@media (max-width: 576px) {
+  .title {
+    font-size: 4vw;
+  }
+}
+
+@media (max-width: 576px) {
+  #instagram {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  #twitter {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  #youtube {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  #facebook {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  #footer {
+    font-size: 3vw;
+  }
+}
+
+@media (max-width: 576px) {
+  #button {
+    font-size: 3.5vw;
+  }
+}
+
+@media (max-width: 576px) {
+  #status {
+    font-size: 3.5vw;
+  }
+}
+
+@media (max-width: 576px) {
+  #mainPara {
+    font-size: 3.5vw;
+  }
+}
+
+@media (max-width: 576px) {
+  #logoMOI {
+    width: 100px;
+  }
+}
+
+@media (max-width: 576px) {
+  #logoStatus {
+    width: 75px;
+  }
+}
+
+@media (max-width: 576px) {
+  #personFaceImage {
+    width: 50%;
+  }
+}
+
+#mainPara {
+  font-family: 'Almarai';
+  color: rgb(27,71,161);
+  background: rgb(243,245,247);
+  border-bottom: 2px solid rgb(214,220,229);
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.dataTitle {
+  font-family: 'Almarai';
+  color: #4b4c4d;
+  margin-bottom: 0;
+  font-size: small;
+}
+
+.dataContent {
+  font-family: 'Almarai';
+  font-weight: bolder;
+  font-size: small;
+  margin-bottom: 0;
+}
+
+#dataTitle {
+  font-size: 15px;
+}
+
+h6 {
+}
+
+#data {
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+#dataColumn {
+  min-width: 280px;
+  margin-bottom: 10px;
+}
+
